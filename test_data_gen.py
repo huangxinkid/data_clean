@@ -74,3 +74,5 @@ def test_data_gen(num_pi,num_ex,num_gap,num_bk):
 #再添加一条备注
 #再试试
 #再熟练一下
+#Git锻炼
+#add 二次
